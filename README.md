@@ -27,9 +27,9 @@ Cuestiones a tratar:
 
 Este curso es ideal tanto para quienes comienzan en Git como para aquellos que buscan consolidar y expandir sus habilidades en la gestión de repositorios.
 
-## Autor
+## Autora
 
-**Autor: Isaías Fernández Lozano**  
-📧 [ifernandez@ieshlanz.es](mailto:ifernandez@ieshlanz.es)
+**Autora: Ana Fuentes Conde**  
+📧 [ana@iesiliberis.com](mailto:ana@iesiliberis.com)
 
 ---
