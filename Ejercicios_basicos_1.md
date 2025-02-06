@@ -1,4 +1,6 @@
 # Relación de Ejercicios de Git
+# Práctica detallada de GIT para Administradores de Sistemas
+
 
 1. Configurar Git con tu nombre y correo electrónico.
 2. Crear un repositorio Git en un directorio de trabajo.
