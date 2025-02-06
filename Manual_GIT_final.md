@@ -80,7 +80,7 @@ brew install git
 
 ## En Windows
 
-Puedes descargar Git desde [Git for Windows](https://gitforwindows.org/).
+Puedes descargar Git desde [Git for Windows](https://git-scm.com/).
 
 Para verificar la instalación:
 
